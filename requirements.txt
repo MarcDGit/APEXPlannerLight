@@ -1,0 +1,9 @@
+streamlit==1.36.0
+pandas==2.2.2
+numpy==1.26.4
+SQLAlchemy==2.0.32
+sqlite-utils==3.36
+statsmodels==0.14.2
+scikit-learn==1.5.1
+pydantic==2.8.2
+python-dateutil==2.9.0.post0
